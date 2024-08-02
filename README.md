@@ -1,16 +1,18 @@
-## Hi there 👋
+## oii queridos 💙
 
-<!--
-**bpadin/bpadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome é Beatriz Padin
+- tenho 15 anos
+- gosto sempre de aprender coisas novas
+- estou estudando na alura
+- estou me aperfeiçoando para evoluir cada vez mais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  .
+  
+  
+  
+  
+  
+  
+
